@@ -1,5 +1,6 @@
-package com.findwise;
+package com.findwise.search;
 
+import com.findwise.IndexEntry;
 import com.findwise.search.IndexEntryImpl;
 import com.findwise.search.SearchEngineImpl;
 import com.findwise.search.Tokenizer;
